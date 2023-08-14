@@ -14,7 +14,7 @@
 - ⏱ Slow Down or Speed Up Time
 
 <div class="buttons">
-  <a href="https://github.com/Netflix/pollyjs/" target="_blank"><span>GitHub</span></a>
+  <a href="https://github.com/bcfead/doc/" target="_blank"><span>GitHub</span></a>
   <a href="#/README"><span>Get Started</span></a>
 </div>
 
