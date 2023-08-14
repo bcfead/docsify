@@ -15,7 +15,7 @@
 
 <div class="buttons">
   <a href="https://github.com/bcfead/doc/" target="_blank"><span>GitHub</span></a>
-  <a href="#/README"><span>Get Started</span></a>
+  <a href="#/README"><span>欢迎</span></a>
 </div>
 
 ![color](#ffffff)
