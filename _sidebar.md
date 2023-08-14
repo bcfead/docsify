@@ -8,5 +8,3 @@
 
   - [API](api.md)
   - [Configuration](configuration.md)
-
-- [Contributing](CONTRIBUTING.md)
