@@ -1,21 +1,14 @@
-<div class="netflix-logo">
-  <div class="logo"></div>
-</div>
+![logo](assets/logo.png)
 
-![logo](assets/images/wordmark-logo-alt.png)
+# Style Dictionary
 
-> 欢迎访问.
+> Style once, use everywhere.
 
-- 🚀 Node & Browser Support
-- ⚡️️ Simple, Powerful, & Intuitive API
-- 💎 First Class Mocha & QUnit Test Helpers
-- 🔥 Intercept, Pass-Through, and Attach Events
-- 📼 Record to Disk or Local Storage
-- ⏱ Slow Down or Speed Up Time
+**Style Dictionary** is a build system that allows you to define styles once, in a way for any platform or language to consume. A single place to create and edit your styles, and a single command exports these rules to all the places you need them - iOS, Android, CSS, JS, HTML, sketch files, style documentation, or anything you can think of. It is available as a CLI through npm, but can also be used like any normal node module if you want to extend its functionality.
 
-<div class="buttons">
-  <a href="https://github.com/bcfead/doc/" target="_blank"><span>GitHub</span></a>
-  <a href="#/README"><span>开始</span></a>
-</div>
+[GitHub](https://github.com/bcfead)
+[Get Started](README.md)
 
-![color](#ffffff)
+[See what's new in 3.0!](version_3.md)
+
+![color](#D9F8F5)
